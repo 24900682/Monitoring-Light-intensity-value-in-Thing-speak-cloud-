@@ -2,7 +2,7 @@
 ### Name: Aswin.L
 ### Reg No: 24900682
 
-# Exp -4:Monitoring-Light-intensity-value-in-Thing-speak-cloud
+# Exp -4:Monitoring Light intensity value in Thing speak cloud
 # Uploading LDR sensor data in Thing Speak cloud
 
 # AIM:
